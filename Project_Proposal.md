@@ -9,7 +9,7 @@ money to charge for their rental property. If the price is too high, customers m
 #### Data Description:
 I plan to scrape data directly from [Airbnb's website](https://www.airbnb.com/). An individual "row" or unit of analysis would be one listing that appears in
 the search results for stays. As of now, I plan to set the following search parameters on Airbnb:
-* Location: Poconos, Pennsylvania (popular region for outfoor activities year-round)
+* Location: Poconos, Pennsylvania (popular region for outdoor activities year-round)
 * Date: August 14-21, 2021
 * Guests: 4 adults
 
