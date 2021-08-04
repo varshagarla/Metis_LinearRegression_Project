@@ -1,4 +1,6 @@
-## Building an Airbnb Pricing Tool for NYC Properties
+## Minimum Viable Product
+
+### Building an Airbnb Pricing Tool for NYC Properties
 
 The goal of this project is to create an Airbnb price prediction tool based on features of a property that hosts can use to set a price that is appropriate and
 optimal for profitability yet affordable to guests.
