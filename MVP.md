@@ -6,12 +6,12 @@ The goal of this project is to create an Airbnb price prediction tool based on f
 optimal for profitability yet affordable to guests.
 
 To start exploring this goal, I selected the numeric features I believe may be strong predictors of price. These numeric features of interest are:
-no. bedrooms, overall rating, no. listing reviews, locating rating, cleanliness rating, no. host ratings, host response rate, and months since host joined
+no. bedrooms, overall rating, no. listing reviews, location rating, cleanliness rating, no. host ratings, host response rate, and months since host joined
 
 I created a pairplot of these numeric features of interest to observe the feature-to-feature relations and feature distributions.
 ![pairplot_airbnb](https://user-images.githubusercontent.com/87044440/128139361-9b35a615-7cdb-4768-b341-43f17cb4a88c.jpg)
 
-One takeaway are that the target, price per night, as well as other features, may require log transformation to create a more even distribution. 
+One takeaway is that the target, price per night, as well as other features, may require log transformation to create a more even distribution. 
 Additionally, while none of the relations are clearly linear, it appears that some expected patterns are visible. For example, higher overall ratings,
 location ratings, and host response rates are related to higher listing prices.
 
