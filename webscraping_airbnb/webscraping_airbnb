@@ -1,0 +1,3 @@
+1. script that scrapes key features from Airbnb search results pages and detailed listing pages using BeautifulSoup and Selenium
+2. script to automate scraping
+3. Jupyter Notebook testing scraping methods and CSS selectors in HTML code
