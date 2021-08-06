@@ -1,2 +1,2 @@
 # Metis_LinearRegression_Project
-Metis Project 2
+Building a Regression Model to Predict Airbnb Prices in NYC
