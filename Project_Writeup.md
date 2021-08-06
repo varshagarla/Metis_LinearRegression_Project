@@ -19,7 +19,7 @@ _Feature Engineering_
 
 _Models_
 
-Simple linear regression and RidgeCV regression were used before settling on LassoCV forest as the model with strongest cross-validation performance. 
+Simple linear regression and RidgeCV regression were used before settling on LassoCV regression as the model with strongest cross-validation performance. 
 
 _Model Evaluation and Selection_
 
@@ -28,7 +28,7 @@ The entire training dataset was split into 80/20 train vs. holdout, and all scor
 **Final Model**
 - alpha: 0.307
 - Holdout R^2 score: 0.561
-- Mean absolute error (MAE): 38.47
+- Mean absolute error (MAE): $38.47
 - Feature coefficients:
 
 ![Screen Shot 2021-08-06 at 12 26 45 AM](https://user-images.githubusercontent.com/87044440/128456152-d5370e22-7dea-457f-b976-da5a9ae440de.png)
