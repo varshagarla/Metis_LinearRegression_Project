@@ -18,9 +18,11 @@ _Feature Engineering_
 - Adding deviation feature for occupancy relative to borough
 
 _Models_
+
 Simple linear regression and RidgeCV regression were used before settling on LassoCV forest as the model with strongest cross-validation performance. 
 
 _Model Evaluation and Selection_
+
 The entire training dataset was split into 80/20 train vs. holdout, and all scores reported below were calculated with 5-fold cross validation on the training portion only. Predictions on the 20% holdout were limited to the very end, so this split was only used and scores seen just once. Cross-validated R^2 scores were the main metric for comparing and tuning models.
 
 **Final Model**
