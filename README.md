@@ -1,7 +1,7 @@
 ## Metis Project 2: Linear Regression & Web Scraping
 
 <p align="center">
-<h1><b> Building a Regression Model to Predict Airbnb Prices in NYC </b></h1>
+<h1><b> Using Regression Models to Predict Airbnb Prices in NYC </b></h1>
 </p>
 
 <p align="center">
